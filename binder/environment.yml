@@ -1,4 +1,4 @@
-name: pangeo
+name: intro_climate_data
 channels:
  - conda-forge
 dependencies:
