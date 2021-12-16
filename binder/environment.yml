@@ -62,6 +62,7 @@ dependencies:
  - pyarrow
  - pycamhd
  - pydap
+ - pyextremes
  - pygeos
  - pystac
  - python-blosc
