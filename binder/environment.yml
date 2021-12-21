@@ -1,8 +1,9 @@
 name: intro_climate_data
 channels:
  - conda-forge
+ - cascade
 dependencies:
- - python=3.9*
+ - python==3.9*
  - pangeo-notebook=2021.09.30
  - pip=20
  - adlfs
@@ -13,6 +14,7 @@ dependencies:
  - cfgrib
  - cmip6_preprocessing
  - ciso
+ - climextremes
  - dask-ml
  - datashader
  - descartes
