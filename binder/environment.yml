@@ -25,7 +25,6 @@ dependencies:
  - fsspec-reference-maker
  - gcsfs
  - gh
- - git
  - geocube
  - geopandas
  - geopy
