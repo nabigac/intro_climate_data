@@ -59,7 +59,7 @@ dependencies:
  - parcels
  - param!=1.11.0
  - pip:
-  - git+https://github.com/OpenHydrology/lmoments3.git
+  - "--editable=git+https://github.com/OpenHydrology/lmoments3.git"
  - prefect
  - pyarrow
  - pycamhd
