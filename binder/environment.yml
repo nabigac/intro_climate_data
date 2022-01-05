@@ -59,7 +59,9 @@ dependencies:
  - parcels
  - param!=1.11.0
  - pip:
+    - climextremes
     - git+https://github.com/OpenHydrology/lmoments3.git
+    - rpy2==3.3.3
  - prefect
  - pyarrow
  - pycamhd
