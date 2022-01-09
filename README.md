@@ -1,5 +1,5 @@
 # intro to climate data
-adhoc projects built as i explored climate data and modeling
+adhoc projects i built while exploring climate data, climate modeling, and extreme value analysis
 
 ## tools used
 - python 3.9
